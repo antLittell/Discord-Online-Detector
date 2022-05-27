@@ -1,0 +1,22 @@
+{
+  "name": "justinbot",
+  "version": "1.0.0",
+  "description": "Bot used to tell when certain users are online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antLittell/online-detector.git"
+  },
+  "author": "Anthony Littell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antLittell/online-detector/issues"
+  },
+  "homepage": "https://github.com/antLittell/online-detector#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
